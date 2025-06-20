@@ -6,9 +6,7 @@ Notes, labs, and progress from TryHackMe, Hack The Box, and other pentesting pra
 This repository documents my learning and practice in cybersecurity.
 
 ## 🔍 Platforms & Progress
-- ✅ TryHackMe – Offensive Security Info (Completed)
-- 🔄 TryHackMe – Defensive Security Info (In Progress)
-- 📘 CAPIE – Certified AppSec Practitioner (Completed)
+- 🔄 TryHackMe – (In Progress)
 - 🎯 Preparing for eJPT and CompTIA Security+
 
 ## 📂 Structure
